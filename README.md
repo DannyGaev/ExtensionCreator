@@ -3,7 +3,7 @@ Creates a Chrome Extension as per your specifications, and guides you through ho
 
 *Getting your Chrome Extension*:
 1. Download ExtensionCreator.zip
-2. Extract files to your Desktop
+2. Extract all the files to your Desktop (this may take a bit of time, bear with it)
 3. Navigate to the folder from the command line
 4. Run 'node index.js'
 5. Enter the neccessary information (image link must be gotten via copying the Image Address)
