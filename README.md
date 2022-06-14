@@ -12,7 +12,7 @@ Creates a Chrome Extension as per your specifications, and guides you through ho
 
 *Using your Chrome Extension*:
 1. Navigate to the puzzle piece in the top right of Google Chrone
-2. "Pin" your Extension; it will now always be within direct reach
+2. "Pin" your extension; it will now always be within direct reach
 3. Enjoy your new extension!
 
 
