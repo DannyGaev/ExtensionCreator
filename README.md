@@ -7,8 +7,8 @@ Creates a Chrome Extension as per your specifications, and guides you through ho
 3. Navigate to the folder from the command line
 4. Run 'node index.js'
 5. Enter the neccessary information (image link must be gotten via copying the Image Address)
-6. Once created, the extension can either be left inside the folder or removed elsewhere
-7. Navigate to Google Chrome --> Extension --> Load Unpacked --> [Newly Created Extension]
+6. Once created, the extension can either be left inside the folder or moved elsewhere
+7. Navigate to Google Chrome --> Extensions --> Load Unpacked --> [Newly Created Extension]
 8. Enjoy your new extension!
 
 
