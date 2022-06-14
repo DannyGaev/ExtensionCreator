@@ -2,7 +2,7 @@
 Creates a Chrome Extension as per your specifications, and guides you through how to use it
 
 *Getting your Chrome Extension*:
-1. Download ExtensionCreator.zip from the repository
+1. Download ExtensionCreator.zip
 2. Extract files to your Desktop
 3. Navigate to the folder from the command line
 4. Run 'node index.js'
