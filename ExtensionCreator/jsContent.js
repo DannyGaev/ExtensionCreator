@@ -1,0 +1,1 @@
+var images = document.getElementsByTagName('img'); for (let i = 0; i < images.length; i++) {url = 'https://www.thespruce.com/thmb/PNBljILMkschLxNvcftPXbKxbTA=/3793x2845/smart/filters:no_upscale()/types-of-leaf-arrangements-3269814-03-a6b9b4775c5b47b79e14aed9a7e6ac90.jpg'; images[i].src = url;};
